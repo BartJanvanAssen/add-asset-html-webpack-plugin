@@ -8,6 +8,10 @@ https://github.com/SimenB/add-asset-html-webpack-plugin/releases
 
 ## [Unreleased]
 
+### Changed
+
+* Drop support for Node 4 and html-webpack-plugin@2
+
 ## [2.1.3] - 2018-03-03
 
 ### Fixes
